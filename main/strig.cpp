@@ -1,9 +1,5 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <string>
-#include <iostream>
+
 #include "library.h"
-using namespace std;
 
 int request_question();
 
@@ -73,7 +69,7 @@ cout<<Log_;
     system("clear"); 
 
    
-
+    request_question(); 
    
     return 0;
 }
