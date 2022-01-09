@@ -53,7 +53,6 @@ int request_question(){
        cout <<"\n  you haved "; 
        cout << point;
        cout <<"\n Congratulations\n";
-    
         return 0;  
     
 }

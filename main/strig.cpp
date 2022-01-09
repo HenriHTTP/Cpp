@@ -7,15 +7,15 @@ int main(){
     
     string user ,password,confirm_password,confirm_user ;
       
-cout<<Log_; 
 
 
-    cout<< "creat a new user";
+
+    cout<<Log_<< "creat a new user"<<Log_;
 
     cin >> user ; 
     system ("clear");
 
-    cout << "criate a new password";
+    cout <<Log_<< "criate a new password"<<Log_;
     cin >> password;
 
     system ("clear");
@@ -24,7 +24,7 @@ cout<<Log_;
     while (user != confirm_user)
     {
 
-        cout<< "enter your user";
+        cout<<Log_<< "enter your user"<<Log_;
         cin >> confirm_user; 
         system("clear");
  
@@ -32,7 +32,7 @@ cout<<Log_;
 
          if (user == confirm_user)
     {
-        cout<<"correct user";
+        cout<<Log_<<"correct user"<<Log_;
         system("clear");
 
 
@@ -47,25 +47,25 @@ cout<<Log_;
 
     while (password!=confirm_password)
     {
-        cout<<"enter your password";
+        cout<<Log_<<"enter your password"<<Log_;
         cin >> confirm_password; 
         system("clear");
 
     if (confirm_password == password)
     {
-    cout << "correct password";
+    cout<<Log_ << "correct password"<<Log_;
     system("clear");
 
 
     }else{ 
 
-        cout << "erro 404";
+        cout<<Log_ << "erro 404"<<Log_;
         system ("clear");
 
     }
     }
 
-    cout << "login complet";
+    cout<<Log_ << "login complet"<<Log_;
     system("clear"); 
 
    
