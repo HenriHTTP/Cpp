@@ -69,7 +69,7 @@ cout<<Log_;
     }
     }
 
-    cout << "login complete";
+    cout << "login complet";
     system("clear"); 
 
    
