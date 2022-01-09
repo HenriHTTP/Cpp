@@ -4,7 +4,7 @@
   </div>
   
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/86864451/148705731-e10e2e0a-6468-47a8-8208-0c504985cbff.jpeg" width="900px" />
+  <img  src="https://user-images.githubusercontent.com/86864451/148705731-e10e2e0a-6468-47a8-8208-0c504985cbff.jpeg" width="1000px" />
   </div>
   
   <div>
@@ -20,7 +20,7 @@
 
 <div align="center"> 
   
-  <img src="https://user-images.githubusercontent.com/86864451/148705163-2005519a-1250-4e44-9388-51c262797fa1.gif" width="900px"/>
+  <img src="https://user-images.githubusercontent.com/86864451/148705163-2005519a-1250-4e44-9388-51c262797fa1.gif" width="1000px"/>
  
 
   </div>
