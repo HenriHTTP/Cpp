@@ -7,7 +7,7 @@
   <img  src="https://user-images.githubusercontent.com/86864451/148705731-e10e2e0a-6468-47a8-8208-0c504985cbff.jpeg" width="900px" />
   </div>
   
-  <div
+  <div>
 <h2>welcome to my project</h2>
     </div>
 
