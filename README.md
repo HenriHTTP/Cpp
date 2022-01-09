@@ -1,15 +1,15 @@
 
 <div align="center">
-<h1> Hello mine friend !!!</h1>
+<h2> Hello mine friend ✋</h1>
   </div>
   
 <div align="center">
-<h1>welcome to my project</h1>
+<h1>welcome to my project</h2>
     </div>
 
   
 <div align="center">
-<h4> This project is a quiz of questions related to programming languages. inside this you will see libraries.h and functions in c++.</h4>
+<h4> ✔️This project is a quiz of questions related to programming languages. inside this you will see libraries.h and functions in c++.</h4>
     </div>
 
   
