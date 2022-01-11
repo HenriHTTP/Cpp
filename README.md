@@ -20,8 +20,7 @@
 <div>    
 
 <h4>⚠️the requiriment for use this project We're assume you have C and C++ compilers installed and functioning. We support gcc, clang and MSVC.
-
-Allegro also requires CMake 2.8.5 or later to build. You may download it from http://www.cmake.org/</h4>
+</h4>
   
   </div>
     
