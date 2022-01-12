@@ -1,5 +1,5 @@
 #ifndef LIBRARY_H_INCLUDED
-#define IBRARY_H_INCLUDED
+#define LIBRARY_H_INCLUDED
 #define  Log_ "\n"
 
 #include <stdlib.h>
